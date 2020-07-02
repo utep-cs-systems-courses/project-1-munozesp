@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "tokenizer.h"
 #define false 0
-#define true 
+#define true 1
 
 /*Return true(non-zero) if c is a whitespace character 
   ('\t' or ' ').
