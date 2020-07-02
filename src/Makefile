@@ -7,5 +7,5 @@ history.o: history.c history.h
 
 tokenizer.o: tokenizer.c tokenizer.h
 
-clean: rm project1tokenizer *.o
+
 
